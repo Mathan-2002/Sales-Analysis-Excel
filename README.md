@@ -12,6 +12,12 @@ The dashboard analyzes revenue trends, best-selling products, city-wise performa
 - **Number of Orders**
 - **Total Items Sold**
 - **Average Sales per Order**
+## 🛠️ Tools Used
+- **Microsoft Excel**
+- **Pivot Tables & Pivot Charts**
+- **Slicers**
+- **Dashboard Design Techniques**
+
 
 ---
 
